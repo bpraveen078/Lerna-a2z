@@ -1,0 +1,21 @@
+{
+  "name": "praveen-login",
+  "version": "0.0.4",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/praveen-login.umd.js",
+  "module": "fesm5/praveen-login.js",
+  "es2015": "fesm2015/praveen-login.js",
+  "esm5": "esm5/praveen-login.js",
+  "esm2015": "esm2015/praveen-login.js",
+  "fesm5": "fesm5/praveen-login.js",
+  "fesm2015": "fesm2015/praveen-login.js",
+  "typings": "praveen-login.d.ts",
+  "metadata": "praveen-login.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
